@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @Miramuh
 - 👀 I’m interested in fullstak developer 
-- 🌱 I’m currently learning github
-  
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 🌱 I’m learning github
 - ⚡ Fun fact: I like drawing
 
 <!---
